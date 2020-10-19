@@ -1,4 +1,4 @@
-// Program to measure consumed current by a load with the SCT013-30A current sensor
+// Program to measure consumed current by a load (water kettle) with the SCT013-30A current sensor //
 
 const int SensorPin = A0 , RefPin = A2; //definition of the arduino sensor and reference pin constants
 const int Rshunt = 33 ; //shunt resistance value
